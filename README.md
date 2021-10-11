@@ -1,5 +1,5 @@
 <p align="center">
-    <h4 align=center>Hi, I'm Charlie - aka [veasman](https://github.com/veasman)</h4>
+    <h4 align=center>Hi, I'm Charlie - aka veasman</h4>
 
 <br>
     <p align=center>「 CyberSecurity student @ <b>Shawnee Mission Center for Academic Achievement</b> 」<br> </p></p>
