@@ -1,9 +1,8 @@
-### Hi, I'm Charlie - aka [veasman](https://github.com/veasman)
+<p align="center">
+    <h4 align=center>Hi, I'm Charlie - aka [veasman](https://github.com/veasman)</h4>
 
 <br>
-<p align="center">
-    「 CyberSecurity student @ <b>Shawnee Mission Center for Academic Achievement</b> 」<br>
-</p>
+    <p align=center>「 CyberSecurity student @ <b>Shawnee Mission Center for Academic Achievement</b> 」<br> </p></p>
 <details align="center">
     <summary> <samp>&#9776; Details</samp></summary>
     <p align="center">
