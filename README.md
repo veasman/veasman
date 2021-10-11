@@ -7,7 +7,7 @@
 <details align="center">
     <summary> <samp>&#9776; Details</samp></summary>
     <p align="center">
-        <img align=center src=https://github-readme-stats.vercel.app/api?username=veasman&show_icons=true&theme=tokyonight/>
+        <img align=center src=https://github-readme-stats.vercel.app/api?username=veasman&show_icons=true&theme=tokyonight>
         <br>
         <br>
         <a href="https://github.com/veasman?tab=repositories" target="_blank"><img alt="Code"
