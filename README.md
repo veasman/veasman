@@ -2,7 +2,7 @@
     <h4 align=center>Hi, I'm Charlie - aka veasman</h4>
 
 <br>
-    <p align=center>「 CyberSecurity student @ <b>Shawnee Mission Center for Academic Achievement</b> 」<br> </p></p>
+    <p align=center>「 Software Engineer @ <b>Softwarfare</b> 」<br> </p></p>
 <details align="center">
     <summary> <samp>&#9776; Details</samp></summary>
     <p align="center">
