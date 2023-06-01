@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [emacs.zip](https://github.com/emacs-zip)
 
-- 🌱 I’m currently learning **Rust, Golang, Kafka**
+- 🌱 I’m currently learning **Rust, and Golang**
 
 - 📖 I'm eager to learn **RedPanda, OCaml, Leptos, Zig, VLang(?)**
 
